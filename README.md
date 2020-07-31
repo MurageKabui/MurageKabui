@@ -1,5 +1,5 @@
 
-<p align="center"><img src="./uhuh.gif" alt="github-profile-readme-generator gif" /></p>
+<p align="center"><img src="uhuh.gif" alt="github-profile-readme-generator gif" /></p>
 
 <p align="center">  
 <a href="https://twitter.com/kabue murage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kabue murage" height="20" width="20" /></a>  
