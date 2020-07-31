@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋 there.</h2>  
-![](uhuh.gif)
+
 <p align="center">I'm an Electrical Engineering student , also a automation enthusiast from a software development point of view. I'm available for full-time or freelance hire.
    
 <p align="center">  
