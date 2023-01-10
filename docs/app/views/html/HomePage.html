@@ -1,0 +1,44 @@
+﻿<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div id="HomePage" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-html v-bind="idHTMLFeaturedOpts"><br>
+<br>
+<br>
+<section id="container">
+<ul id="listlink">
+  <li><div></div><span class="titles">Writer's Text</span><span class="offdata">&#8734;</span></li>
+  <hr>
+  <li><div></div><span class="titles">Anime Facts</span><span class="offdata">&#8734;</span></li>
+  <li><div></div><span class="titles">Anime Quotes</span><span class="offdata">&#8734;</span></li>
+  <li><div></div><span class="titles">Inspirational</span><span class="offdata">&#8734;</span></li>
+  <li><div></div><span class="titles">Movie Quotes</span><span class="offdata">&#8734;</span></li>
+  <li><div></div><span class="titles">Advice Slip</span><span class="offdata">&#8734;</span></li>
+  <hr>
+  <li><div></div><span class="titles">Watch an ad</span><span class="offdata"><i class="fas fa-ad"></i></span></li>
+</ul>
+</section>
+
+<br>
+<br>
+<br></dab-html><dab-html v-bind="html2">      <div class="bnav">
+        <ul>
+          <li class="active">
+            <i class="fas fa-home fa-2x"></i>
+            <p>Home</p>
+          </li>
+          <li onclick="app.replaceView('Saved')">
+            <i class="fas fa-box-open fa-2x"></i>
+
+            <p>Saved</p>
+          </li>
+          <li onclick="app.replaceView('Favorites')">
+            <i class="fas fa-heart fa-2x"></i>
+
+            <p>Fav</p>
+          </li>
+          <li>
+            <i class="fas fa-info fa-2x"></i>
+            <p>info</p>
+
+          </li>
+        </ul>
+      </div>
+
+</dab-html><dab-container v-bind="container1"><dab-label v-bind="idMainTtl"></dab-label></dab-container></div></transition>

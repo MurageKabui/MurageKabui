@@ -1,0 +1,23 @@
+﻿<transition v-bind:[app.viewTransitionName]="transitionName" v-bind:[app.viewTransitionMode]="transitionMode" v-bind:[app.viewInAnimation]="'animate__animated ' + 'animate__' + inAnimation" v-bind:[app.viewOutAnimation]="'animate__animated ' + 'animate__' +  outAnimation"><div id="SocialHub" v-bind:class="['app-view', classes]"><dab-sidebar v-bind="app.sidebar"></dab-sidebar><dab-html v-bind="NavSaved">      <div class="bnav">
+        <ul>
+          <li onclick="app.replaceView('HomePage')">
+            <i class="fas fa-home fa-2x"></i>
+            <p>Home</p>
+          </li>
+          <li onclick="app.replaceView('SocialHub')" class="active">
+            <i class="fas fa-box-open fa-2x"></i>
+
+            <p>Saved</p>
+          </li>
+          <li onclick="app.replaceView('Favorites')">
+            <i class="fas fa-heart fa-2x"></i>
+            <p>Fav</p>
+          </li>
+          <li>
+            <i class="fas fa-cog fa-2x" id='menuicon'></i>
+            <p>Menu</p>
+          </li>
+        </ul>
+      </div>
+
+</dab-html><dab-container v-bind="container1"><dab-label v-bind="label1"></dab-label></dab-container></div></transition>

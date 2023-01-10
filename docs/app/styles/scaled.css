@@ -1,0 +1,48 @@
+﻿
+/*!
+This file is part of DecSoft App Builder.
+Visit our website for license information.
+Copyright ©2023 DecSoft. All rights reserved.
+Visit our website at: https://www.decsoftutils.com/
+
+*/
+
+
+html, body { width: 320px; height: 480px; }
+
+#HomePage #idHTMLFeaturedOpts { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 93.33%; }
+#HomePage #html2 { position: absolute; top: 90.00%; left: 0.00%; width: 100.00%; height: 10.00%; }
+
+#HomePage #container1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 8.33%; }
+
+#HomePage #idMainTtl { position: absolute; top: 20.00%; left: 2.50%; width: 95.00%; height: 50.00%; }
+#HomePage #idMainTtl {text-align: center;}
+
+#Saved #NavSaved { position: absolute; top: 90.00%; left: 0.00%; width: 100.00%; height: 10.00%; }
+
+#Saved #container1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 8.33%; }
+
+#Saved #label1 { position: absolute; top: 20.00%; left: 2.50%; width: 95.00%; height: 50.00%; }
+#Saved #label1 {text-align: center;}
+
+#MoreInfo #idHTMLTextInfo { position: absolute; top: 11.67%; left: 102.50%; width: 95.00%; height: 76.67%; }
+#MoreInfo #idHTMLTextInfo {font-family: QuoteFont;}
+#MoreInfo #idHTMLInfoBtmNav { position: absolute; top: 90.00%; left: 0.00%; width: 100.00%; height: 10.00%; }
+
+#MoreInfo #container2 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 8.33%; }
+
+#MoreInfo #label11 { position: absolute; top: 20.00%; left: 12.50%; width: 77.50%; height: 50.00%; }
+#MoreInfo #label11 {text-align: center;}
+
+#MoreInfo #idQuoteScreen { position: absolute; top: 10.00%; left: 2.50%; width: 95.00%; height: 78.33%; }
+
+#Favorites #idHTMLFavView { position: absolute; top: 0.00%; left: 2.50%; width: 95.00%; height: 100.00%; }
+#Favorites #container1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 8.33%; }
+#Favorites #label1fav { position: absolute; top: 20.00%; left: 12.50%; width: 77.50%; height: 50.00%; }
+#Favorites #label1fav {text-align: center;}
+#Favorites #idHTMLFavBtmNav { position: absolute; top: 90.00%; left: 0.00%; width: 100.00%; height: 10.00%; }
+
+#quoteoptions #button1 { position: absolute; top: 91.67%; left: 2.50%; width: 95.00%; height: 6.67%; }
+#quoteoptions #idBtnMkCard { position: absolute; top: 3.33%; left: 2.50%; width: 95.00%; height: 23.54%; }
+#quoteoptions #label1 { position: absolute; top: 28.33%; left: 2.50%; width: 95.00%; height: 4.17%; }
+#quoteoptions #label1 {text-align: center;}

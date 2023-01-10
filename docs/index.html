@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="" dir="">
+ <head>
+  <title></title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+   <meta http-equiv="Content-Security-Policy"
+    content="default-src * app: file: data: mediastream: blob: filesystem: cdvfile: ws: ms-appdata: ms-appx-web: gap: 'unsafe-inline' 'unsafe-eval';" />
+  <meta name="generator" content="DecSoft App Builder 2022.3 - https://www.decsoftutils.com/" />
+   <meta name="description" content="The Yugen - An awareness of the universe that triggers an emotional response too deep and mystical for words." />
+   <meta name="author" content="Dennis Murage Kabui - dennisk@zainahtech.com - " />
+    
+  <link rel="apple-touch-icon" href="app/images/icon.png" />
+  <link rel="icon" type="image/png" href="app/images/icon.png" />
+  <link rel="shortcut icon" href="app/images/icon.png" type="image/x-icon" />
+  <link rel="stylesheet" type="text/css" id="app-theme" href="app/styles/default.css" />
+  <link rel="stylesheet" type="text/css" id="app-style" href="app/styles/scaled.css" />  
+  <link rel="stylesheet" type="text/css" href="app/styles/shared.css" />
+  <link rel="stylesheet" type="text/css" href="app/styles/pluginscomps.css" />
+  <link rel="stylesheet" type="text/css" href="app/styles/alerty.css" />
+
+ </head>
+ <body>
+  <keep-alive id="app">
+   <router-view v-bind:app="app">
+   </router-view>
+  </keep-alive>
+  <div id="dialogs">
+   <quoteoptions v-bind:app="app"></quoteoptions>
+   <dab-alert v-bind:app="app"></dab-alert>
+   <dab-toasts v-bind:app="app"></dab-toasts>
+  </div>  
+  <div id="dab-sidebar-overlay"></div>
+  <script src="app/scripts/builder.min.js"></script>
+  <script src="app/scripts/alerty.js"></script>
+<script src="app/plugins/DecSoft/Clipboard/scripts/clipboard.min.js"></script>
+
+  <script src="app/scripts/pluginscomps.js"></script>
+  <script src="app/scripts/applangs.js"></script>
+  <script src="app/scripts/app.js"></script>
+  <script src="cordova.js"></script>
+ </body>
+</html>
