@@ -8,8 +8,7 @@ I am an experienced developer with a passion for technology and programming, who
 - [Windows Batch Scripting](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)
 - Machine Learning 
 - AI
-- Web Development (HTML, CSS, JavaScript)
-- Modern Web Frameworks (React, Angular, Vue.js)
+- Web Development (HTML, CSS, JavaScript), Modern Web Frameworks (React, Angular, Vue.js)
 - [Backend Development](https://en.wikibooks.org/wiki/Web_Development/What_is_a_backend?) (Node.js, Express, Python)
 - [Cloud Computing (AWS, Azure, GCP)](https://en.wikibooks.org/wiki/Intellectual_Property_and_the_Internet/Cloud_computing)
 - DevOps (Docker, Kubernetes, CI/CD)
