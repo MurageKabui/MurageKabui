@@ -1,6 +1,6 @@
 
 <h4 align="center"></h4>  
-  Hi 👋
+  Hi there👋
 <p align="center">  
 I am an experienced developer with a passion for technology and programming, who enjoys working on projects as a hobby.
 My tech stack:
@@ -13,6 +13,11 @@ My tech stack:
 - [Cloud Computing (AWS, Azure, Cisco)](https://en.wikibooks.org/wiki/Intellectual_Property_and_the_Internet/Cloud_computing)
 - AR/VR.
 
+I can make:
+- Mobile apps (Android | IOS | Windows Phone)
+- Windows Automations (GUIs and CLI <3)
+- Browser Extensions (for Chromium based browsers)
+  
 If you're interested in working with me on a project, feel free to reach me at dennisk@zainahtech.com. 
 
 </p>
