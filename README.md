@@ -10,6 +10,6 @@
 <hr>
 <div align="center">
   <a href="https://open.spotify.com/user/31bzd4gra6amj6cioyeyq2fe4qba">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzd4gra6amj6cioyeyq2fe4qba&count=10&width=600" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzd4gra6amj6cioyeyq2fe4qba&count=10&width=600" alt="Spotify recently played"/>
   </a>
 </div>
