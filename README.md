@@ -7,7 +7,7 @@
 
 <hr>
 
-### 🛠️My Technologies & Tools
+<!--### 🛠️My Technologies & Tools-->
 
 ![AutoIt](https://img.shields.io/badge/-AutoIt-1C3552?style=flat-square&logo=autoit&logoColor=white)
 ![Batch Script](https://img.shields.io/badge/-Batch_Script-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
