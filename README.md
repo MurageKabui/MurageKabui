@@ -24,35 +24,30 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🏗️ Projects I'm currently  Working On
+
+## ️ Projects I'm Actively Working On
 
 #### 1. **KaribuNairobi Website**
-Karibu Nairobi is a community inspired by Nairobi's culture that provides a space for everyone to express themselves. They are passionate about culture, history and self expression.
-<!--- **Tech Stack:** -->
-<!--- **Features:**-->
-<!--  - Aesthetic & Modern style-->
-<!--  - Whatsapp and -->
-<!--  - Weather alerts and notifications-->
+Karibu Nairobi is a chill community inspired by Nairobi's vibrant culture, offering a space for everyone to express themselves. It's all about celebrating culture, history, and self-expression.
+
 - **Repository:** [Karibu Nairobi Repository](https://github.com/MurageKabui/KaribuNairobi)
 - **Live Site:** [Karibu Nairobi Website](https://github.com/DennisK/WeatherNow)
 
 #### 2. **PhoneDo**
-PhoneDo is an Android automation application that provides a scripting environment based on JavaScript with methods for handling native Android actions in a headless way.
-- **Tech Stack:** Vue, SQlite, JQuery, Bootstrap, Ace.js and [more](https://github.com/MurageKabui/PhoneDo#about)..
+PhoneDo is an Android automation app that lets you script native Android actions using JavaScript in a headless way.
+- **Tech Stack:** Vue, SQLite, jQuery, Bootstrap, Ace.js, and [more](https://github.com/MurageKabui/PhoneDo#about).
 - **Features:**
-  - Integrated IDE for writing scripts
-  - Integrated terminal user interface with custom commands.
-  - Script management (Create, Edit, Delete written Scripts.)
-  - Run Written Scripts.
+  - Built-in IDE for script writing.
+  - Terminal UI with custom commands.
+  - Script management (create, edit and delete)
+  - Execute written scripts
+  - Export written scripts
+  
+  and more!
 - **Repository:** [PhoneDo Repository](https://github.com/MurageKabui/PhoneDo)
-
-<!--### 📈 GitHub Stats-->
-
-<!--![DennisK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurageKabui&show_icons=true&theme=radical)-->
 
 ### 📫 How to Reach Me
 
 - **WhatsApp:** [My WhatsApp](https://wa.link/9kbk0s)
 
 ---
-
