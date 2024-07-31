@@ -59,7 +59,8 @@
 Karibu Nairobi is a chill community inspired by Nairobi's vibrant culture, offering a space for everyone to express themselves. It's all about celebrating culture, history, and self-expression.
 
 - **Repository:** [Karibu Nairobi Repository](https://github.com/MurageKabui/KaribuNairobi)
-- **Live Site:** [Karibu Nairobi Website](https://muragekabui.github.io/KaribuNairobi/)
+- **Preview Site:** [Preview Site](https://muragekabui.github.io/KaribuNairobi/)
+- **Hosted Site:** [www.karibunairobi.co.ke](www.karibunairobi.co.ke)
 
 #### 2. **PhoneDo**
 PhoneDo is an app for Android that lets you write and execute Javascript Code that interfaces with Android's native features programmatically.
