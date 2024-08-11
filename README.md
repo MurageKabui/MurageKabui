@@ -1,4 +1,3 @@
-<!-- h4 align="center">Hi 👋</h4-->
 <div align="center">
   <a href="https://open.spotify.com/user/31bzd4gra6amj6cioyeyq2fe4qba">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurageKabui&theme=zenburn">
