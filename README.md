@@ -63,7 +63,7 @@ Karibu Nairobi is a chill community inspired by Nairobi's vibrant culture, offer
 
 #### 2. **PhoneDo**
 PhoneDo is an app for Android that lets you write and execute Javascript Code that interfaces with Android's native features programmatically.
-- **Tech Stack:** Vue, SQLite, jQuery, Bootstrap, Ace.js, and [more](https://github.com/MurageKabui/PhoneDo#about).
+- **Tech Stack:** Java, Ionic, Vue, SQLite, jQuery, Bootstrap, Ace.js, and [more](https://github.com/MurageKabui/PhoneDo#about).
 - **Features:**
   - Built-in IDE for script writing.
   - Terminal UI with custom commands.
