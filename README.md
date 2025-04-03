@@ -54,14 +54,22 @@
 
 ## ️ Projects I'm Actively Working On
 
-#### 1. **KaribuNairobi Website**
+
+## ️ Projects I'm Actively Working On
+
+#### 1. **PowerlineRadio Website**
+A comprehensive digital platform for PowerlineRadio broadcasting company featuring responsive design and seamless audio streaming capabilities. The website includes an intuitive frontend experience for listeners with program schedules, DJ profiles, and live stream integration. The robust backend includes a custom-built Content Management System (CMS) with an admin dashboard allowing staff to manage content, upload media, schedule broadcasts, and analyze listener metrics without technical expertise.
+- **Hosted Site:** [www.powerlineradio.com](https://www.powerlineradio.com)
+
+
+#### 2. **KaribuNairobi Website**
 Karibu Nairobi is a chill community inspired by Nairobi's vibrant culture, offering a space for everyone to express themselves. It's all about celebrating culture, history, and self-expression.
 
 - **Repository:** [Karibu Nairobi Repository](https://github.com/MurageKabui/KaribuNairobi)
 - **Preview Site:** [Preview Site](https://muragekabui.github.io/KaribuNairobi/)
 - **Hosted Site:** [www.karibunairobi.co.ke](https://www.karibunairobi.co.ke)
 
-#### 2. **PhoneDo**
+#### 3. **PhoneDo**
 PhoneDo is an app for Android that lets you write and execute Javascript Code that interfaces with Android's native features programmatically.
 - **Tech Stack:** Java, Ionic, Vue, SQLite, jQuery, Bootstrap, Ace.js, and [more](https://github.com/MurageKabui/PhoneDo#about).
 - **Features:**
