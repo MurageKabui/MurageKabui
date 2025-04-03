@@ -50,11 +50,6 @@
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 
-
-
-## ️ Projects I'm Actively Working On
-
-
 ## ️ Projects I'm Actively Working On
 
 #### 1. **PowerlineRadio Website**
