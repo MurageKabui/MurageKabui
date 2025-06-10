@@ -60,7 +60,6 @@ A comprehensive digital platform for PowerlineRadio broadcasting company featuri
 #### 2. **KaribuNairobi Website**
 Karibu Nairobi is a chill community inspired by Nairobi's vibrant culture, offering a space for everyone to express themselves. It's all about celebrating culture, history, and self-expression.
 
-- **Preview Site:** [Preview Site](https://muragekabui.github.io/KaribuNairobi/)
 - **Hosted Site:** [www.karibunairobi.co.ke](https://www.karibunairobi.co.ke)
 
 #### 3. **PhoneDo**
